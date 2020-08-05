@@ -31,6 +31,9 @@
     "completed": false
   },
     
-    ]
+    ],
+    "profile": {
+    "name": "typicode"
+  }
 
 }
