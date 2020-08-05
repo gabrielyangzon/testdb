@@ -1,5 +1,5 @@
 {
-    "todos":[
+    "todos": [
     {
     "userId": 1,
     "id": 1,
@@ -29,11 +29,10 @@
     "id": 5,
     "title": "work work work work",
     "completed": false
-  },
+  }],
     
-    ],
     "profile": {
     "name": "typicode"
-  }
+    }
 
 }
